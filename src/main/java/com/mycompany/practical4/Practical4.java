@@ -27,7 +27,7 @@ public  class Practical4 {//open of practical4
              public String name;//we are declaring the variable
              public String surname;
              static void walkinMethod(){
-                 JOptionPane.showMessageDialog(null,"walk walk slave");
+                 JOptionPane.showMessageDialog(null,"walk walk");
              }
                      
                      
